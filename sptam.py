@@ -216,6 +216,10 @@ class SPTAM(object):
 
 
 if __name__ == '__main__':
+    """
+    pangolin installation from https://github.com/uoip/pangolin
+    """
+
     import cv2
     import g2o
 
